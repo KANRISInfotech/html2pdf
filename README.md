@@ -6,7 +6,7 @@ Microservice to download any webpage as formatted pdf with dynamic data, images 
 ### Prerequisites
 NodeJS
 
-###Getting Started
+### Getting Started
 
 ```
 npm install
@@ -17,6 +17,6 @@ HTML
 <a href="localhost:3000/html2pdf?link=google.co.in"></a>
 ```
 
-###Options
+### Options
 
-*name - Name of the downloaded file (Defaults to test.pdf)
+* name - Name of the downloaded file (Defaults to test.pdf)
