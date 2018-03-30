@@ -1,0 +1,17 @@
+{
+    "name": "nodeform",
+    "version": "1.0.0",
+    "description": "sample app using nodemailer",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "rishikesh",
+    "license": "MIT",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "cors": "^2.8.4",
+        "express": "^4.16.2",
+        "puppeteer": "^1.0.0"
+    }
+}
