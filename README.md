@@ -1,9 +1,10 @@
 # html2pdf
 Microservice to download any webpage as formatted pdf with dynamic data, images and css.
 
+##
+
 ### Prerequisites
 NodeJS
-
 
 ###Getting Started
 
@@ -17,4 +18,5 @@ HTML
 ```
 
 ###Options
+
 *name - Name of the downloaded file (Defaults to test.pdf)
