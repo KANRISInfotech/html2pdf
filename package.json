@@ -11,7 +11,15 @@
     "dependencies": {
         "body-parser": "^1.18.2",
         "cors": "^2.8.4",
+        "css-tree": "^1.0.0-alpha.27",
+        "csstree": "0.0.3",
         "express": "^4.16.2",
-        "puppeteer": "^1.0.0"
+        "express-handlebars": "^3.0.0",
+        "minimalcss": "^0.7.0",
+        "nodemailer": "^4.4.2",
+        "pdfkit": "^0.8.3",
+        "phantom": "^4.0.12",
+        "puppeteer": "^1.0.0",
+        "wkhtmltopdf": "^0.3.4"
     }
 }
