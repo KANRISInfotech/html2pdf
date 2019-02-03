@@ -1,5 +1,5 @@
-# html2pdf
-Microservice to download any webpage as formatted pdf with dynamic data, images and css.
+# puppeteer
+Microservice to download any webpage as formatted pdf, png with dynamic data, images and css.
 
 ##
 
