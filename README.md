@@ -14,7 +14,7 @@ node index.js
 ```
 HTML
 ```
-<a href="localhost:3000/html2pdf?link=google.co.in"></a>
+<a href="localhost:3000/html2pdf?link=https://www.google.co.in"></a>
 ```
 
 ### Options
